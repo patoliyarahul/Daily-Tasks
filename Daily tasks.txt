@@ -179,7 +179,7 @@
         - filters, sorting, pagination
         - axios interceptors (way to add global behavior to your HTTP requests and responses without having to modify each individual request or response call.)
     Task Done : 
-        - implementation of above React Query concepts & axios interceptors
+        - implementation of above React Query concepts, pagination & axios interceptors
     Task in Progress :
         - CRUD operations using redux or react hook
 
