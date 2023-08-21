@@ -172,12 +172,12 @@
     Other :
         - React Query :
             - Custom query hook, Query by ID.
-            - Parallel queries & Dynamic Parallel Queries ( useQueries ).
+            - Parallel queries & Dynamic Parallel Queries (useQueries).
             - Dependent Queries, paginated queries, infinite query.
-            - Mutate Query ( post Data ), Query Invalidation ( Auto refetch after Adding Data )
+            - Mutate Query (post Data), Query Invalidation (Auto refetch after Adding Data)
             - optimistic Updates
         - filters, sorting, pagination
-        - axios interceptors ( way to add global behavior to your HTTP requests and responses without having to modify each individual request or response call. )
+        - axios interceptors (way to add global behavior to your HTTP requests and responses without having to modify each individual request or response call.)
     Task Done : 
         - implementation of above React Query concepts & axios interceptors
     Task in Progress :
