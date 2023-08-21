@@ -1,0 +1,188 @@
+1. Date : 01/08/2023, TUE
+    React
+        - Read React Documentation
+        - Redux Documentation
+        - Working on redux counter demo
+    Task Done:
+        - Redux counter demo
+    Task in Progress :
+        - Redux counter demo with Typescript
+
+2. Date : 02/08/2023, WED
+    React
+        - Typescript.
+        - typescript functional components & Class Components.
+        - props, Handeling State, Events, Function Parameters, Forms in Typescript.
+        - Working on React-typescript counter & Todo list demo.
+    Task Done :
+        - setting up vite + react + typescript + tailwind CSS.
+        - Counter demo with TypeScript.
+        - ToDo list demo App with typescript.
+    Task in Progress :
+        - ToDo list Edit & Delete Functionality.
+        - other remaining Typescript functionalities.
+           
+3. Date : 03/08/2023, THU
+    React
+        - Typescript.
+        - typescript Conditional Rendering.
+        - Looping in typescript.
+        - Services, Fetch data fron API.
+        - Routing Dynamic Routing.
+        - Dynamic API fetching in typescript.
+    Task Done :
+        - App demo using pure Redux.
+    Task in Progress :
+        - Working on Redux Toolkit.
+
+4. Date : 03/08/2023, FRI
+    Redux-Toolkit (RTK)
+        - createAction API.
+        - createReducer API: 
+            # Method 1: Builder Notation (Recomended).
+            # Method 2: Map Object Notaion .
+        - Configure store => reducer
+        - finally Dispatch.
+        - Customize store (middleware). eg.: Redux-logger (createLogger()).
+        - createSlice API: To simplify the code.
+            # createSlice = createAction + createReducer.
+            # includes: name, initialState & reducer/extraReducer, store, dispatch.
+        - Connecting RTK store to React.
+    Task Done :
+        - counter demo using Redux-Toolkit.
+        - counter demo using createSlice API.
+        - API calling demo using createAsyncThunk API
+            # handling createAsync Actions (pending, fullfiled & reject)
+    Task in Progress :
+        - Doing all the above tasks with Typescript.
+
+5. Date : 07/08/2023, MON
+    Task Done :
+        - person List demo using RTK. (https://github.com/ValtureTecocraft/project-demo/tree/Person-List)
+        - Todo app demo using RTK. (https://github.com/ValtureTecocraft/project-demo/tree/todo-app)
+        - men-shop login, signup page and navbar (https://github.com/ValtureTecocraft/project-demo/tree/men-store-demo)
+    Task in Progress :
+        - men-shop home page, product page, cart page, wishlist page.
+        - privateRoute, etc
+
+6. Date : 08/08/2023, TUE
+    Other :
+        - Navigating, No match, Nested, Index Route.
+        - Dynamic Routes, URL Params, Search Params, Relative Links vs Absolute Links (includes "/...").
+        - Lazy Loading, private Routes with ContextAPI.
+        - Material UI: 
+            - Typography, Button, Button Group, Toggle Button.
+            - Input Components: Text Field, Select, Radio Button, Checkbox, Switch, Rating, Autocomplete.
+            - Layouts, Speed Dial, Navigation, Avatar, Badge, List.
+            - Tooltip, Alert, Snackbar, Dialog, Skeleton (Loading), Progress, Date Time | Range picker, Masonry.
+    Task Done :
+        - Project name: E-Commerce App
+            - protected route using context API.
+        - Material UI Basics.
+    Task in Progress :
+        - MUI Custom Theme
+    
+7. Date : 09/08/2023, WED
+    Other :
+        - Material UI : 
+            - Custom Theme
+        - SASS & SCSS, Animation in CSS
+        - Tailwind CSS, Grid & flex
+        - JavaScript :
+            - Basics of JavaScript, JS ES6
+            - Type conversion and Coercion
+            - JS Callback Function, Promises in function
+            - Async await function in JS
+        - React.js :
+            - Class Component vs Functional Component, React Lifecycle
+            - Map, Filter, reducer, find, forEach, Switch case
+    Task in Progress :
+        - Form validation using Formik & yup
+
+8. Date : 10/08/2023, THU
+    Other :
+        - Formik : 
+            - useFormik hook to handle form data and validation.
+            - integrating yup with Formik.
+        - Yup : 
+            - For form validation.
+        - react-hook-form :
+            - useForm hook to handle form data and validation.
+            - integrating yup with RHF.
+        - dayjs
+        - String Methods, Regex
+        - setTimeout,setinterval
+    Task Done :
+        - Project name: E-Commerce App
+            - Implemented Formik and Yup in Login page.
+            - Implemented RHF and Yup in Signup page.
+    Task in Progress :
+        - axios interceptors
+
+9. Date : 11/08/2023, FRI
+    Other :
+        - react-hook-form :
+            - Nested object, array, Dynamic Fields.
+            - Data types, watch field, (set) field value, form submission (error, disable, state, reset).
+            - Async validation, validation modes, manually trigger validation
+            - MUI Integration.
+        - React.js hooks:
+            - useEffect : with cleanUp, Data fetching
+            - useContext, useReducer with useContext
+            - useReducer with complex state, multiple useReducer.
+    Task Done :
+        - integrating Tailwind CSS with MUI components
+        - counter app with useReducer
+        - counter app with useContext & useReducer
+    Task in Progress :
+        - other hooks implementation
+
+10. Date : 14/08/2023, MON
+    Other :
+        - React.js hooks:
+            - useCallback, useMemo.
+            - useRef, Custom hooks.
+        - React Query
+    Task Done : 
+        - Custom Hooks : useDocumentTitle, useCounter.
+        - React-Query:
+            - Data fetching (json-server).
+            - Handeling Query Errors.
+            - Query Devtools, Query Cache, Stale Time.
+            - Refetch : refetchOnMount, refetchOnWindowFocus, refetchInterval, refetchIntervalInBackground
+            - refetch on Event handler (button click)
+            - onSuccess and onError callbacks to perform effects
+            - Data transformation
+    Task in Progress :
+        - Custom Query Hook
+
+11. Date : 15/08/2023, TUE
+    Leave
+
+12. Date : 16/08/2023, WED
+    Leave
+
+13. Date : 17/08/2023, THU
+    Leave
+
+14. Date : 18/08/2023, FRI
+    Leave
+
+15. Date : 21/08/2023, MON
+    Other :
+        - React Query :
+            - Custom query hook, Query by ID.
+            - Parallel queries & Dynamic Parallel Queries ( useQueries ).
+            - Dependent Queries, paginated queries, infinite query.
+            - Mutate Query ( post Data ), Query Invalidation ( Auto refetch after Adding Data )
+            - optimistic Updates
+        - filters, sorting, pagination
+        - axios interceptors ( way to add global behavior to your HTTP requests and responses without having to modify each individual request or response call. )
+    Task Done : 
+        - implementation of above React Query concepts & axios interceptors
+    Task in Progress :
+        - CRUD operations using redux or react hook
+
+
+
+
