@@ -183,6 +183,36 @@
     Task in Progress :
         - CRUD operations using redux or react hook
 
+16. Date : 22/08/2023, TUE
+    Other :
+        - CRUD Operation :
+            - add data to list.
+            - delete a data from list.
+            - update a data of list
+        - 3rd party library integrations
+        - localization, language conversion
+        - Custom Form Fronted Validation
+        - Testing
+            - types: Unit test, Integrated Test & E2E Test (End to End).
+    Task Done : 
+        - implementation of CRUD operation
+    Task in Progress :
+        - e-Commerce demo implementation
+
+17. Date : 23/08/2023, TUE
+Project : E-Commerce Website
+    Task Done : 
+        - Created Navbar, Login page, Signup Page, Product Page.
+        - Protected Route, login Authentication with Fake user API.
+        - Firebase Implementaion.
+    Task in Progress :
+        - e-Commerce demo implementation
+    Other : 
+        - Firebase: 
+            - Create user with Email & Pass.
+            - Create user with Google Acc.
+            - Sign In with Email and Password.
+
 
 
 
