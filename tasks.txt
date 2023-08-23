@@ -205,16 +205,16 @@
         - Protected Route, login Authentication with Fake user API.
         - Firebase Implementaion.
     Task in Progress :
-        - e-Commerce demo implementation
+        - e-Commerce demo Implementations
         - Login and Signup of Todo App.
         - Home page of to do app
-        - Maping Tasks
+        - Mapping Tasks
     Other : 
         - Firebase: 
             - Create user with Email & Pass.
             - Create user with Google Acc.
             - Sign In with Email and Password.
-            - maping data.
+            - mapping data.
 
 
 
