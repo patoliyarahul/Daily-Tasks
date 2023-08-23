@@ -208,6 +208,7 @@
         - e-Commerce demo implementation
         - Login and Signup of Todo App.
         - Home page of to do app
+        - Maping Tasks
     Other : 
         - Firebase: 
             - Create user with Email & Pass.
