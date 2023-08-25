@@ -231,6 +231,19 @@
             - file uploading
             - Hosting
 
+19. Date : 25/08/2023, FRI
+    Task Done : 
+        - Todo app Bug fix : (https://todo-app-firebase-valture.netlify.app/)
+            - Google signup fix.
+            - set and remove user's UID in local storage.
+            - Page not Found route.
+        - Chat App : (https://chat-app-firebase-by-valture.netlify.app/)
+            - Project Setup  (https://github.com/ValtureTecocraft/chat-app)
+            - UI created of Login and registration page
+            - UI of Home page
+            - signup functionalities (Email & Password, & Google)
+    Task in Progress :
+        - Login and Home page
 
 
 
