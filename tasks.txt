@@ -295,7 +295,7 @@
     Other : 
         - Docs of Firebase.
     Task in Progress :
-        - Group Chat messages input and display 
+        - Group Chat messages input and display them.
 
 
 
