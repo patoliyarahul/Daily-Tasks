@@ -295,7 +295,19 @@
     Other : 
         - Docs of Firebase.
     Task in Progress :
-        - Group Chat messages input and display them.
+        - Group Chat messages input and display them. 
+
+24. Date : 04/09/2023, MON
+    Project name : Chat App (https://chat-app-firebase-by-valture.netlify.app/)
+    Task Done : (https://github.com/ValtureTecocraft/chat-app)
+        - Update messages to groupChats collection 
+        - fetch and display messages in group Chat
+        - UI changes of group chat (display sender: name, photo) and user chat
+        - Search user on keyDown.
+        - updated UI for search results.
+        - responsive UI.
+    Other : 
+        - Docs of Firebase.
 
 
 
