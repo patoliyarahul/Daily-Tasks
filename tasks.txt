@@ -309,6 +309,19 @@
     Other : 
         - Docs of Firebase.
 
+25. Date : 05/09/2023, MON
+    Project name : E-Commerce Website
+    Task Done : 
+        - React Project Setup with vite, typescript, tailwind, and mockBee APIs.
+        - UI Login, Sighup.
+    Task in Progress : 
+        - UI of Home
+    Other : 
+        - Docs of mockBee :
+            - Installation, Project Structure.
+            - Configuration, Customization.
+            - Intro to API. 
+
 
 
 
