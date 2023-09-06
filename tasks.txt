@@ -323,7 +323,7 @@
             - Intro to API
 
 26. Date : 06/09/2023, WED
-    Project name : E-Commerce Website
+    Project name : E-Commerce Website ( https://github.com/ValtureTecocraft/my-e-commerce-app )
     Task Done : 
         - Login user with API.
         - Signup user with API
