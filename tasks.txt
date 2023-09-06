@@ -309,7 +309,7 @@
     Other : 
         - Docs of Firebase.
 
-25. Date : 05/09/2023, MON
+25. Date : 05/09/2023, TUE
     Project name : E-Commerce Website
     Task Done : 
         - React Project Setup with vite, typescript, tailwind, and mockBee APIs.
@@ -320,7 +320,18 @@
         - Docs of mockBee :
             - Installation, Project Structure.
             - Configuration, Customization.
-            - Intro to API. 
+            - Intro to API
+
+26. Date : 06/09/2023, WED
+    Project name : E-Commerce Website
+    Task Done : 
+        - Loginin user with API.
+        - Signup user with API
+        - Responsive Navbar
+        - fetch products List
+    Other :  
+        - understanding the file Structure to build project
+        - created Reducers with Redux Toolkit for Signup and Login
 
 
 
