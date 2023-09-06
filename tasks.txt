@@ -325,7 +325,7 @@
 26. Date : 06/09/2023, WED
     Project name : E-Commerce Website
     Task Done : 
-        - Loginin user with API.
+        - Login user with API.
         - Signup user with API
         - Responsive Navbar
         - fetch products List
