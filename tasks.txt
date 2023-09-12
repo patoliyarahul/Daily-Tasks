@@ -333,7 +333,25 @@
         - understanding the file Structure to build project
         - created Reducers with Redux Toolkit for Signup and Login
 
+27. Date : 08/09/2023, FRI
+    LEAVE
 
+28. Date : 11/09/2023, MON
+    Project name : E-Commerce Website
+    Task Done :  ( https://github.com/ValtureTecocraft/my-e-commerce-app )
+        - Home page UI :
+            - Added Banner with carousel slider.
+            - Best Seller UI
+        - Protected Route Fix ( check localStorage instead of cookie for token ).
+        - Product page UI :
+            - single product component
+            - fetch Products from API
+            - Handling buttons ( Add to cart, Go to Cart & Out of Stock )
+        - Navbar conditional rendering ( hidden in login and signup pages )
+        - Document title hook.
+        - Deploy on Netlify  ( https://e-commerce-by-valture.netlify.app/ )
+    Task in Progress : 
+        - UI of Cart page and wishList page
 
 
 
