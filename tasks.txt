@@ -353,5 +353,18 @@
     Task in Progress : 
         - UI of Cart page and wishList page
 
+29. Date : 12/09/2023, TUE
+    Project name : E-Commerce Website
+    Task Done :
+        - conditional AddToCart and WishList Button ( only if user is logged in ).
+        - Navbar Search field fix ( responsive ).
+        - WishList page UI
+        - using Product_Card component for displaying products in wishlist
+    Task in Progress : 
+        - UI of Cart page.
+    Other : 
+        - Documentation of React Native.
+
+
 
 
