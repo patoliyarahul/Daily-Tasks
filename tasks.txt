@@ -365,6 +365,20 @@
     Other : 
         - Documentation of React Native.
 
+    Half day
+
+30. Date : 13/09/2023, WED
+    Project Name : BeeDee
+    Task Done :
+        - BeeDee-280 :
+            - Added Age besides full name in profile preview.
+        - BeeDee-287 :
+            - Added condition to params passed from ChatLayoutComp. to MatchedProfileComp.
+        - BeeDee-213 :
+            - Fixed phoneNumber display in validation screen.
+    Other : 
+        - Exploring React-Native. 
+
 
 
 
