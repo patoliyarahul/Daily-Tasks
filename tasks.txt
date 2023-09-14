@@ -379,6 +379,18 @@
     Other : 
         - Exploring React-Native. 
 
+31. Date : 14/09/2023, THU
+    Project Name : BeeDee
+    Task Done :
+        - BeeDee-167 :
+            - Added validation in signupWithNumber page ( digits only and isValidNumber ).
+    Other : 
+        - Exploring React-Native :
+            - View, Text, Image, BackgroundImage, ScrollView.
+            - Button, Pressable, Modal, StatusBar, ActivityIndicator, Alert, Custom Component.
+            - Styling (Inline & StyleSheet API), Multiple Styles ( use styles in Array. ).
+            - Layout and Flexbox.
+
 
 
 
