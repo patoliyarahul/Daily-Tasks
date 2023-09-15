@@ -391,6 +391,14 @@
             - Styling (Inline & StyleSheet API), Multiple Styles ( use styles in Array. ).
             - Layout and Flexbox.
 
+32. Date : 15/09/2023, FRI
+    Other : 
+        - Exploring React-Native :
+            - Flexbox, Positioning, Dynamic UI ( Dimentions API ), SafeAreaView.
+            - Platform Specific Code, FlatList ( Partially render the array for better performance )
+            - PokemonCard App 
+            - TextInput ( Props, Multiline )
+
 
 
 
