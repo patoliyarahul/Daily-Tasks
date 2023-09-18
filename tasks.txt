@@ -399,6 +399,14 @@
             - PokemonCard App 
             - TextInput ( Props, Multiline )
 
+33. Date : 18/09/2023, MON
+    Task Done :
+        - todo App (project setup) : Registration screen
+    Other : 
+        - Exploring React-Native :
+            - Switch, TextInput ( secureTextEntry ).
+            - Login Form, Navigation, route params
+
 
 
 
