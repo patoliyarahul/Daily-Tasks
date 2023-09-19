@@ -407,6 +407,16 @@
             - Switch, TextInput ( secureTextEntry ).
             - Login Form, Navigation, route params
 
+34. Date : 19/09/2023, TUE
+    Task Done :
+        - BeeDee-202 :
+            - UI Redesign of BDSM Update screen
+        - BeeDee-313 :
+            - Text Refrased from Compatible to BDSMTest Compatible
+        - BeeDee-293 :
+            - Splash Screen Icon and App icon updated ( IOS & Andriod )
+
+
 
 
 
