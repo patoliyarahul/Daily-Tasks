@@ -408,13 +408,30 @@
             - Login Form, Navigation, route params
 
 34. Date : 19/09/2023, TUE
+    Project Name : BeeDee
     Task Done :
         - BeeDee-202 :
             - UI Redesign of BDSM Update screen
         - BeeDee-313 :
-            - Text Refrased from Compatible to BDSMTest Compatible
+            - Text Rephrased from Compatible to BDSMTest Compatible
         - BeeDee-293 :
-            - Splash Screen Icon and App icon updated ( IOS & Andriod )
+            - Splash Screen Icon and App icon updated ( IOS & Android )
+
+35. Date : 20/09/2023, WED
+    Project Name : BeeDee
+    Task Done :
+        - BeeDee-293 :
+            - Checked the app icon in both Android and IOS.
+        - BeeDee-313 :
+            - BDSM Compatible progress bar width fix.
+        - BeeDee-310 :
+            - Code cleanup.
+        - BeeDee-203 :
+            - allow user to delete images but disable next button if uploaded images are less than 2.
+        - BeeDee-79 :
+            - Added title on BdsmDetail screen when updating BDSM Test.
+        - BeeDee-328 :
+            - Loading text change while loading Profile.
 
 
 
