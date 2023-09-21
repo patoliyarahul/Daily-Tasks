@@ -433,6 +433,20 @@
         - BeeDee-328 :
             - Loading text change while loading Profile.
 
+36. Date : 21/09/2023, THU
+    Project Name : BeeDee
+    Task Done :
+        - BeeDee-79 ( Comment ) :
+            - Added Text to en.json & UI fix in BSMUpdate Screen ( OR devider ).
+        - BeeDee-217 :
+            - addPhoto instruction changes while signing up.
+        - BeeDee-331 :
+            - fixed showing "no match yet" during loading in conversation screen.
+        - BeeDee-335 :
+            - Implement same BDSMTest redesign for sign-up flow as BEEDEE-202.
+        - BeeDee-308 :
+            - Hide 0% complete while loading profile menu.
+
 
 
 
