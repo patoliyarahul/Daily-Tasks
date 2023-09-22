@@ -447,6 +447,12 @@
         - BeeDee-308 :
             - Hide 0% complete while loading profile menu.
 
+37. Date : 22/09/2023, FRI
+    Project Name : BeeDee
+    Task Done :
+        - BeeDee-117 :
+            - Add screen after enabling notification that asks if they want to start swiping or complete profile.
+
 
 
 
