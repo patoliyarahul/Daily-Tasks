@@ -466,7 +466,7 @@
             - link lable text fix.
             - link validation fix.
             - link url change.
-        - BeeDee-335 :
+        - BeeDee-279 :
             - In view profile (your own profile, discover, matches profile), put the Gender box/tag inside the "basics" section.
         - BeeDee-364 :
             - premium prices to monthly & reverse icon order.
