@@ -453,6 +453,26 @@
         - BeeDee-117 :
             - Add screen after enabling notification that asks if they want to start swiping or complete profile.
 
+38. Date : 25/09/2023, MON
+    Project Name : BeeDee
+    Task Done :
+        - BeeDee-202 :
+            - or text fontFamily change variable to inter in BSMUpdate Screen.
+            - link lable text fix.
+            - link validation fix.
+            - link url change.
+        - BeeDee-335 :
+            - or text fontFamily change variable to inter in LinkBDSMTest Screen.
+            - link lable text fix.
+            - link validation fix.
+            - link url change.
+        - BeeDee-335 :
+            - In view profile (your own profile, discover, matches profile), put the Gender box/tag inside the "basics" section.
+        - BeeDee-364 :
+            - premium prices to monthly & reverse icon order.
+        - BeeDee-345 :
+            - make country code clickable in signup/login page.
+
 
 
 
