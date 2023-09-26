@@ -473,6 +473,18 @@
         - BeeDee-345 :
             - make country code clickable in signup/login page.
 
+39. Date : 26/09/2023, TUE
+    Project Name : BeeDee
+    Task Done :
+    - BEEDEE-202 : 
+        - ID from Web-View should be pasted in result ID section.
+    - BEEDEE-335 : 
+        - ID from Web-View should be pasted in result ID section.
+    - BEEDEE-359 : 
+        - increased touchable area for checkbox while register and edit profile.
+    - BEEDEE-321 : 
+        - Allowing user to set pronouns to no-pronouns.
+
 
 
 
