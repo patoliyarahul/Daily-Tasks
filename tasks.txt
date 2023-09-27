@@ -485,6 +485,38 @@
     - BEEDEE-321 : 
         - Allowing user to set pronouns to no-pronouns.
 
+40. Date : 27/09/2023, WED
+    Project Name : BeeDee
+
+    Fixed git comment 
+        BEEDEE-359 ( comment ) : fixed green border around checkbox.
+        BEEDEE-335 ( comment ) : url ( http to https ).
+        BEEDEE-202 ( comment ) : url ( http to https ).
+        BEEDEE-279 ( comment ) : shifted gender into basics in ProfileView, MatchedProfile & Home screens.
+
+    Task Done :-  
+        BEEDEE-38 : 
+            - "Profile Completion" to "Edit Profile".
+            - "44%" to "44% Complete".
+            - “Your photos” to“Your Photos” & added text field for your photos.
+            - “Your bio” to“Your Bio” & added text field in yourBio screen.
+            - "Your main role" to "Main Role" & updated the roles in Main Role.
+            - “Your pronouns” to “Pronouns”
+            - “Family plans & status” capitalization & updated Family plans & status Data
+            - “Education level” capitalization & updated options in education level
+            - "University" to “School/University”,
+            - “Political orientation” capitalization
+            - “Open to” capitalization & pdated Open to data
+            - “View Profile” to “Preview Profile”
+            - “Preferences” to “Search Preferences”
+        BEEDEE-387 : 335-follow-up load correct URL in web-view
+
+
+
+
+
+Please find today's work updates below:
+
 
 
 
