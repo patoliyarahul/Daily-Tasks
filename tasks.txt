@@ -511,6 +511,20 @@
             - “Preferences” to “Search Preferences”
         BEEDEE-387 : 335-follow-up load correct URL in web-view
 
+41. Date : 29/09/2023, FRI
+    Project Name : BeeDee
+
+    Fixed git comment 
+        BEEDEE-279 ( comment ) : fixed the order of basics and display issue of basic title.
+        BEEDEE-330 ( comment ) : navigate to premium screen & fixed conflict to main branch 
+
+    Completed Task :-  
+        BEEDEE-372 : changed the text while loadind the matched profile.
+        BEEDEE-371 : screen to be blocked while uploading is under way ( made loading untouchable )
+        BEEDEE-400 : updated condition to show No match yet
+        BEEDEE-388 : Should pickup new test ID from web-view ( added dependency to useEffect )
+        BEEDEE-404 : removed T&C from buy premium screen
+
 
 
 
