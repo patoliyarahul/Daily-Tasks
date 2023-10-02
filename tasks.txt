@@ -528,7 +528,7 @@
 42. Date : 02/10/2023, MON
     Project Name : BeeDee
 
-    Fixed git comment 
+    Fixed git comment : 
         BEEDEE-117 ( comment ) : handle navigation from profileCompletion to discovery Tab & profile Tab ( bottomNavigation ).
 
 
