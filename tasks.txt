@@ -394,7 +394,7 @@
 32. Date : 15/09/2023, FRI
     Other : 
         - Exploring React-Native :
-            - Flexbox, Positioning, Dynamic UI ( Dimentions API ), SafeAreaView.
+            - Flexbox, Positioning, Dynamic UI ( Dimensions API ), SafeAreaView.
             - Platform Specific Code, FlatList ( Partially render the array for better performance )
             - PokemonCard App 
             - TextInput ( Props, Multiline )
@@ -525,13 +525,15 @@
         BEEDEE-388 : Should pickup new test ID from web-view ( added dependency to useEffect )
         BEEDEE-404 : removed T&C from buy premium screen
 
+42. Date : 02/10/2023, MON
+    Project Name : BeeDee
+
+    Fixed git comment 
+        BEEDEE-117 ( comment ) : handle navigation from profileCompletion to discovery Tab & profile Tab ( bottomNavigation ).
+
 
 
 
 
 Please find today's work updates below:
-
-
-
-
 
